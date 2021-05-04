@@ -1,0 +1,42 @@
+[
+  {
+    "Lugar": "Ajusco",
+    "Descripcion": "La Ciudad de México tiene este tesoro para los que buscan escaparse por una o dos noches del tráfico y las multitudes. Y si vacacionar en plan ¡turstico! no es lo tuyo, Orgánico Hotel Boutique te va a encantar. Se trata de cabañas que fueron acondicionadas por dentro con una decoración minimalista industrial. El paisaje es increíble y el servicio inigualable.",
+    "foto":"bosques1.jpg"  
+},
+  {
+    "Lugar": "Valle de bravo",
+    "Descripcion": "Valle de Bravo es un destino de descanso por excelencia. La paz que se repira entre sus árboles es incomparable y se disfruta aún más si te hospedas en el lugar correcto.",
+    "foto":"bosques2.jpg"
+  },
+  {
+    "Lugar": "Queretaro",
+    "Descripcion": "La Sierra Gorda de Querétaro ofrece muchos rincones para escaparnos. La Casa de los Cuatro Vientos, en especial, es una cabaña contemporánea estilo loft, donde puedes disfrutar del silencio y los impresionantes paisajes que esta región ofrece.",
+    "foto":"bosques3.jpg" 
+  },
+  {
+    "Lugar": "Hidalgo",
+    "Descripcion": "Ubicado en Huasca de Ocampo, podemos encontrar al Hotel Huasca Sierra Verde, un espacio que ofrece diferentes alternativas para todo tipo de viajero. Cuenta con cabañas y glamping (camping con glamour), área de fogatas, albercas y restaurant-bar.",
+    "foto":"bosques4.jpg"
+  },
+  {
+    "Lugar": "Michoacán",
+    "Descripcion": "El estado que es hogar de uno de los bosques más bellos del país, también es el refugio de la exclusiva Quinta Los Azufres. Localizada en el pueblo homónimo, este resort de montañaa ofrece diferentes tipos de cabañas, todas con exclusivas amenidades.",
+    "foto":"bosques5.jpg"
+  },
+  {
+    "Lugar": "Jalisco",
+    "Descripcion": "Los bosques de Jalisco son el escenario perfecto para pasar un fin de semana cerca de la naturaleza. En el pueblo mágico Mazamitla podemos encontrar el Hotel Monteverde, que cuenta con cabañaas de todos tamaños y chalets. No importa que están en medio de miles de árboles, su interior ofrece todas las comodidades para pasarla increíble.",
+    "foto":"bosques6.jpg"
+  },
+  {
+    "Lugar": "Coahuila",
+    "Descripcion": "A lo largo de todo el estado podemos encontrar cualquier tipo rincones para disfrutar de un fin de semana, pero ninguno como el Monterreal Resort. Este espacio fue desarrollado para los amantes de esquí y el golf. Tiene una gran variedad de cabañas para parejas y grupos de todos tamaños. También ofrece actividades como cabalgatas, cuatrimotos, alberca, rapel, y canchas de tenis y basket.",
+    "foto":"bosques7.jpg"
+  },
+  {
+    "Lugar": "Veracruz",
+    "Descripcion": "Ubicado en Jalcomulco, México Verde es un campamento que ofrece tres tipos de casas de campaña, desde la más básica a la más equipada. Nuestra recomendación es la Suite por su agradable decoración que nos mantiene en contacto con la naturelza, aun con todas las comodidades. Lo más interesante de este lugar son todas las actividades ecoturísticas que ofrece, como gotcha, sandboard, rappel y tirolesa, entre muchas otras",
+    "foto":"bosques8.jpg"
+  }
+]
